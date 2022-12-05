@@ -1,3 +1,3 @@
 # Turbo Fishing
 
-Source code for Pragmatic Studiu Hotwire course.
+Source code for Pragmatic Studio Hotwire course.
